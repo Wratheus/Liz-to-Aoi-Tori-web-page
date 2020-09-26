@@ -10752,3 +10752,10 @@ header.masthead h1 {
 #portfolio .container-fluid .portfolio-box:hover .portfolio-box-caption {
   opacity: 1;
 }
+
+h1,i,h2,h3,h4,h5,h6,p,a,div,hr{color:#BE6CA3 !important}
+#about{background-color:#FFEFE3 !important}
+#about{color:#7d3566 !important}
+#services{background-color:#FDF0E6 !important}
+#portfolio{background-color: #FDF0E6 !important}
+.page-section{background-color: #FEF4ED !important}
