@@ -3208,10 +3208,12 @@ header.masthead h1 {
   opacity: 1;
 }
 
-h1,i,h2,h3,h4,h5,h6,p,a,div,hr {
-  color: #BE6CA3 !important;
+i,h2,h3,h4,h5,h6,p,a,div,hr {
+  color: var(--primary) !important;
 }
-
+h1 {
+  color: #FFEFE3 !important;
+}
 #about {
   background-color: #FFEFE3 !important;
 }
