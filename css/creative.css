@@ -161,13 +161,13 @@ sup {
 }
 
 a {
-  color: #5c4d42;
+  color: pink;
   text-decoration: none;
   background-color: transparent;
 }
 
 a:hover {
-  color: #2f2822;
+  color: pink;
   text-decoration: underline;
 }
 

@@ -113,7 +113,7 @@ function js() {
     .pipe(gulp.dest('./js'))
     .pipe(browsersync.stream());
 }
-
+//mda
 // Watch files
 function watchFiles() {
   gulp.watch("./scss/**/*", css);
